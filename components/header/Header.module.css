@@ -1,0 +1,11 @@
+.container {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.title{
+  line-height: 1.15;
+  font-size: 4rem;
+  text-align: center;
+}
