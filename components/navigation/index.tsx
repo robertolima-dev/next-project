@@ -1,3 +1,4 @@
+import { ReactNode } from 'react'
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 import styles from './Navigation.module.css'
